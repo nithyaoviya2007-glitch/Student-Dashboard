@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Nithya",
+    "department": "Artificial Intelligence & Data Science",
+    "year": "III Year"
+  },
+  {
+    "id": 2,
+    "name": "Oviya",
+    "department": "Computer Science",
+    "year": "II Year"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "department": "Information Technology",
+    "year": "IV Year"
+  },
+   {
+    "id": 4,
+    "name": "Arjun",
+    "department": "Electronics and Communication",
+    "year": "III Year"
+  },
+  {
+    "id": 5,
+    "name": "Meera",
+    "department": "Computer Science",
+    "year": "II Year"
+  },
+  {
+    "id": 6,
+    "name": "Karthik",
+    "department": "Artificial Intelligence & Data Science",
+    "year": "IV Year"
+  },
+  {
+    "id": 7,
+    "name": "Divya",
+    "department": "Information Technology",
+    "year": "III Year"
+  },
+  {
+    "id": 8,
+    "name": "Vikram",
+    "department": "Mechanical Engineering",
+    "year": "IV Year"
+  },
+  {
+    "id": 9,
+    "name": "Sneha",
+    "department": "Computer Science",
+    "year": "II Year"
+  },
+  {
+    "id": 10,
+    "name": "Ajay",
+    "department": "Civil Engineering",
+    "year": "I Year"
+  }
+]

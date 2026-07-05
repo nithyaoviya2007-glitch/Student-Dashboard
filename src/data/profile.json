@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Nithya",
+    "age": 20,
+    "department": "Artificial Intelligence & Data Science",
+    "year": "III Year",
+    "email": "nithya@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Oviya",
+    "age": 19,
+    "department": "Computer Science",
+    "year": "II Year",
+    "email": "rahul@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "age": 21,
+    "department": "Information Technology",
+    "year": "IV Year",
+    "email": "priya@example.com"
+  },
+   {
+    "id": 4,
+    "name": "Arjun",
+    "age": 20,
+    "department": "Electronics and Communication",
+    "year": "III Year",
+    "email": "arjun@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Meera",
+    "age": 19,
+    "department": "Computer Science",
+    "year": "II Year",
+    "email": "meera@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Karthik",
+    "age": 21,
+    "department": "Artificial Intelligence & Data Science",
+    "year": "IV Year",
+    "email": "karthik@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Divya",
+    "age": 20,
+    "department": "Information Technology",
+    "year": "III Year",
+    "email": "divya@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Vikram",
+    "age": 22,
+    "department": "Mechanical Engineering",
+    "year": "IV Year",
+    "email": "vikram@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Sneha",
+    "age": 19,
+    "department": "Computer Science",
+    "year": "II Year",
+    "email": "sneha@example.com"
+  },
+  {
+  "id": 10,
+  "name": "Ajay",
+  "age": 20,
+  "department": "Information Technology",
+  "year": "III Year",
+  "email": "ajay@example.com"
+}
+]

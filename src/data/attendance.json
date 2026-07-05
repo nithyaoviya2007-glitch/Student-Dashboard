@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Nithya",
+    "attendance": 92
+  },
+  {
+    "id": 2,
+    "name": "Oviya",
+    "attendance": 85
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "attendance": 58
+  },
+  {
+    "id": 4,
+    "name": "Arjun",
+    "attendance": 76
+  },
+  {
+    "id": 5,
+    "name": "Meera",
+    "attendance": 88
+  },
+  {
+    "id": 6,
+    "name": "Karthik",
+    "attendance": 64
+  },
+  {
+    "id": 7,
+    "name": "Divya",
+    "attendance": 95
+  },
+  {
+    "id": 8,
+    "name": "Vikram",
+    "attendance": 70
+  },
+  {
+    "id": 9,
+    "name": "Sneha",
+    "attendance": 81
+  },
+  {
+    "id": 10,
+    "name": "Ajay",
+    "attendance": 60
+  }
+]

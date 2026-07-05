@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "course": "Artificial Intelligence",
+    "faculty": "Dr. Kumar",
+    "credits": 4
+  },
+  {
+    "id": 2,
+    "course": "Machine Learning",
+    "faculty": "Dr. Priya",
+    "credits": 3
+  },
+  {
+    "id": 3,
+    "course": "Python Programming",
+    "faculty": "Mr. Arun",
+    "credits": 4
+  },
+  {
+    "id": 4,
+    "course": "Data Structures",
+    "faculty": "Mrs. Anitha",
+    "credits": 3
+  },
+  {
+    "id": 5,
+    "course": "Database Management Systems",
+    "faculty": "Dr. Suresh",
+    "credits": 4
+  },
+  {
+    "id": 6,
+    "course": "Operating Systems",
+    "faculty": "Dr. Meena",
+    "credits": 3
+  },
+  {
+    "id": 7,
+    "course": "Computer Networks",
+    "faculty": "Mr. Rajesh",
+    "credits": 4
+  },
+ 
+  {
+    "id": 9,
+    "course": "Software Engineering",
+    "faculty": "Dr. Vijay",
+    "credits": 4
+  }
+]

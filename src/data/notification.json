@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Mid Semester Examination",
+    "message": "Mid Semester exams start from 15th July."
+  },
+  {
+    "id": 2,
+    "title": "Placement Training",
+    "message": "Placement training begins next Monday."
+  },
+  {
+    "id": 3,
+    "title": "Assignment Submission",
+    "message": "Submit your React assignment before Friday."
+  },
+  {
+  "id": 4,
+  "title": "Holiday Announcement",
+  "message": "College will remain closed on account of Independence Day."
+}
+]
